@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-24T18:51:36Z" name="Suite1" finished-at="2023-04-24T18:51:56Z" duration-ms="20428">
+    <groups>
+      <group name="PM">
+        <method signature="FacebookExecution.validLogin(java.lang.String, java.lang.String)[pri:0, instance:pageexecution.FacebookExecution@7fcf2fc1]" name="validLogin" class="pageexecution.FacebookExecution"/>
+      </group> <!-- PM -->
+    </groups>
+    <test started-at="2023-04-24T18:51:36Z" name="Test1" finished-at="2023-04-24T18:51:56Z" duration-ms="20428">
+      <class name="pageexecution.FacebookExecution">
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:pageexecution.FacebookExecution@7fcf2fc1]" started-at="2023-04-24T18:51:36Z" name="beforeMethod" finished-at="2023-04-24T18:51:42Z" duration-ms="6560" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validLogin(java.lang.String, java.lang.String)[pri:0, instance:pageexecution.FacebookExecution@7fcf2fc1]" started-at="2023-04-24T18:51:42Z" name="validLogin" finished-at="2023-04-24T18:51:44Z" duration-ms="2190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mahe]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@154251]]>
+              </value>
+            </param>
+          </params>
+        </test-method> <!-- validLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:pageexecution.FacebookExecution@7fcf2fc1]" started-at="2023-04-24T18:51:44Z" name="afterMethod" finished-at="2023-04-24T18:51:45Z" duration-ms="270" status="PASS">
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:pageexecution.FacebookExecution@7fcf2fc1]" started-at="2023-04-24T18:51:45Z" name="beforeMethod" finished-at="2023-04-24T18:51:48Z" duration-ms="3611" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validLogin(java.lang.String, java.lang.String)[pri:0, instance:pageexecution.FacebookExecution@7fcf2fc1]" started-at="2023-04-24T18:51:48Z" name="validLogin" finished-at="2023-04-24T18:51:50Z" duration-ms="1775" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Javeed]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test21515]]>
+              </value>
+            </param>
+          </params>
+        </test-method> <!-- validLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:pageexecution.FacebookExecution@7fcf2fc1]" started-at="2023-04-24T18:51:50Z" name="afterMethod" finished-at="2023-04-24T18:51:50Z" duration-ms="359" status="PASS">
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:pageexecution.FacebookExecution@7fcf2fc1]" started-at="2023-04-24T18:51:50Z" name="beforeMethod" finished-at="2023-04-24T18:51:54Z" duration-ms="3375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validLogin(java.lang.String, java.lang.String)[pri:0, instance:pageexecution.FacebookExecution@7fcf2fc1]" started-at="2023-04-24T18:51:54Z" name="validLogin" finished-at="2023-04-24T18:51:56Z" duration-ms="1835" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Maha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[514551]]>
+              </value>
+            </param>
+          </params>
+        </test-method> <!-- validLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:pageexecution.FacebookExecution@7fcf2fc1]" started-at="2023-04-24T18:51:56Z" name="afterMethod" finished-at="2023-04-24T18:51:56Z" duration-ms="432" status="PASS">
+        </test-method> <!-- afterMethod -->
+      </class> <!-- pageexecution.FacebookExecution -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
